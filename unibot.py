@@ -20,7 +20,7 @@ def load_embedding_model():
 @st.cache_resource
 def load_chat_model():
     """Initialize the Ollama chat model"""
-    return Ollama(model="gemma:7b", temperature=0.3)
+    return Ollama(model="llama2", temperature=0.3)
 
 def process_documents(uploaded_files):
     """Process uploaded documents using appropriate loaders"""
