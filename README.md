@@ -5,7 +5,7 @@ just have to add .env file with following API keys-
 
 To run Locally have to download Ollama and any Chat Inference Model.
 
-here I used gemma:2b model for Short inference since it's just a chatbot without needing any large llm model.
+here I used phi3:mini-128k model for Short inference since it's just a chatbot without needing any large llm model.
 
 
 still have to use a better Embedding model to create Vector Database for faster search and have to clean the unstructured data provided by the University Administration.
