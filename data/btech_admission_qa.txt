@@ -1,0 +1,101 @@
+**Question:** Who conducts the online counseling for B.Tech admissions at College of Technology, Pantnagar?  
+**Answer:** Uttarakhand Technical University, Dehradun conducts the online counseling.  
+
+---
+
+**Question:** On what basis is admission to B.Tech programs at Pantnagar granted?  
+**Answer:** Admission is granted based on JEE Mains rank.  
+
+---
+
+**Question:** Which branches of B.Tech are available through online counseling?  
+**Answer:** Branches include Agricultural Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Communication Engineering, Information Technology, Industrial and Production Engineering, Mechanical Engineering and Biotechnology.  
+
+---
+
+**Question:** What percentage of B.Tech seats are reserved for Uttarakhand candidates?  
+**Answer:** 85% of seats are reserved for Uttarakhand candidates.  
+
+---
+
+**Question:** What percentage of B.Tech seats are open to All India candidates?  
+**Answer:** 15% of seats are open to All India candidates.  
+
+---
+
+**Question:** Is a domicile certificate required for Uttarakhand reserved seats?  
+**Answer:** Yes, a domicile certificate is required for Uttarakhand reserved seats.  
+
+---
+
+**Question:** Is a domicile certificate required for general Uttarakhand seats?  
+**Answer:** No, a domicile certificate is not required for general Uttarakhand seats.  
+
+---
+
+**Question:** How is admission to lateral entry B.Tech programs conducted?  
+**Answer:** Through online counseling conducted by Uttarakhand Technical University based on UKSEE exam merit.  
+
+---
+
+**Question:** Who is eligible for lateral entry B.Tech seats?  
+**Answer:** Only Uttarakhand candidates are eligible.  
+
+---
+
+**Question:** Who conducts the spot counseling after UTU counseling?  
+**Answer:** The College of Technology, Pantnagar conducts the spot counseling.  
+
+---
+
+**Question:** Who conducts the online counseling for B.Tech admissions at College of Technology, Pantnagar? (variant 11)  
+**Answer:** Uttarakhand Technical University, Dehradun conducts the online counseling.  
+
+---
+
+**Question:** On what basis is admission to B.Tech programs at Pantnagar granted? (variant 12)  
+**Answer:** Admission is granted based on JEE Mains rank.  
+
+---
+
+**Question:** Which branches of B.Tech are available through online counseling? (variant 13)  
+**Answer:** Branches include Agricultural Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Communication Engineering, Information Technology, Industrial and Production Engineering, Mechanical Engineering and Biotechnology.  
+
+---
+
+**Question:** Who conducts the spot counseling after UTU counseling? (variant 100)  
+**Answer:** The College of Technology, Pantnagar conducts the spot counseling.  
+
+Question: Who conducts the online counseling for B.Tech admissions at College of Technology, Pantnagar? (variant 11)
+Answer: Uttarakhand Technical University, Dehradun conducts the online counseling.
+
+Question: On what basis is admission to B.Tech programs at Pantnagar granted? (variant 12)
+Answer: Admission is granted based on JEE Mains rank.
+
+Question: Which branches of B.Tech are available through online counseling? (variant 13)
+Answer: Branches include Agricultural Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Communication Engineering, Information Technology, Industrial and Production Engineering, Mechanical Engineering and Biotechnology.
+
+Question: What percentage of B.Tech seats are reserved for Uttarakhand candidates? (variant 14)
+Answer: 85% of seats are reserved for Uttarakhand candidates.
+
+Question: What percentage of B.Tech seats are open to All India candidates? (variant 15)
+Answer: 15% of seats are open to All India candidates.
+
+Question: Is a domicile certificate required for Uttarakhand reserved seats? (variant 16)
+Answer: Yes, a domicile certificate is required for Uttarakhand reserved seats.
+
+Question: Is a domicile certificate required for general Uttarakhand seats? (variant 17)
+Answer: No, a domicile certificate is not required for general Uttarakhand seats.
+
+Question: How is admission to lateral entry B.Tech programs conducted? (variant 18)
+Answer: Through online counseling conducted by Uttarakhand Technical University based on UKSEE exam merit.
+
+Question: Who is eligible for lateral entry B.Tech seats? (variant 19)
+Answer: Only Uttarakhand candidates are eligible.
+
+Question: Who conducts the spot counseling after UTU counseling? (variant 20)
+Answer: The College of Technology, Pantnagar conducts the spot counseling.
+
+Question: Who conducts the spot counseling after UTU counseling? (variant 100)
+Answer: The College of Technology, Pantnagar conducts the spot counseling.
+

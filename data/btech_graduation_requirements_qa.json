@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the minimum number of credits required to graduate with a B.Tech degree?",
+        "answer": "A student must earn a minimum of 160 credits to be eligible for the award of a B.Tech degree."
+    },
+    {
+        "question": "What is the maximum duration allowed to complete the B.Tech program?",
+        "answer": "The maximum duration to complete the B.Tech program is 6 years from the date of first registration."
+    },
+    {
+        "question": "Can students transfer credits from a different university?",
+        "answer": "Yes, students can transfer credits from another university, subject to the approval of the academic council and adherence to credit transfer policies."
+    },
+    {
+        "question": "How many semesters are in the B.Tech program?",
+        "answer": "The B.Tech program is divided into 8 semesters."
+    },
+    {
+        "question": "What is the minimum CGPA required for graduation?",
+        "answer": "The minimum CGPA required for graduation is 5.0 on a 10-point scale."
+    }
+]

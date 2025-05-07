@@ -1,0 +1,138 @@
+### Department: Department of Agricultural Engineering  
+**Overview**:  
+- **Established**: 1989  
+- **Program**: B.Tech in Agricultural Engineering  
+- **Objectives**:  
+  - Educate students on modern agricultural technologies.  
+  - Conduct research in irrigation, farm machinery, soil conservation, and food processing.  
+  - Promote sustainable and efficient agricultural practices.  
+- **Focus Areas**:  
+  - Farm Machinery and Power  
+  - Soil and Water Conservation Engineering  
+  - Irrigation and Drainage Engineering  
+  - Agricultural Processing and Food Engineering  
+  - Renewable Energy Applications in Agriculture  
+
+**Faculty**:  
+1. **Dr. R. Ramesh** (Professor and Head)  
+2. **Dr. B. Selvakumar** (Professor)  
+3. **Dr. S. Mariappan** (Associate Professor)  
+4. **Dr. R. Vasanthi** (Associate Professor)  
+5. **Mr. B. Maheswaran** (Assistant Professor - Senior Grade)  
+6. **Mr. A. Mohamed Abbas** (Assistant Professor - Senior Grade)  
+7. **Mr. P. Muruganandham** (Assistant Professor - Senior Grade)  
+8. **Mr. G. Prabakaran** (Assistant Professor - Senior Grade)  
+9. **Mr. S. Selvakumar** (Assistant Professor)  
+10. **Mr. D. Ravichandran** (Assistant Professor)  
+
+**Laboratories**:  
+- Farm Machinery Laboratory  
+- Soil and Water Conservation Engineering Laboratory  
+- Irrigation and Drainage Engineering Laboratory  
+- Agricultural Processing and Food Engineering Laboratory  
+- Surveying and Leveling Laboratory  
+- Strength of Materials Laboratory  
+- Fluid Mechanics Laboratory  
+- Thermodynamics Laboratory  
+- Workshop Practice  
+- Computer Programming Laboratory  
+
+---
+
+### Department: Department of Civil Engineering  
+**Overview**:  
+- **Head**: Dr. S.S. Gupta  
+- **Vision**: "To become a world-class platform of excellence..."  
+- **Mission**:  
+  - Offer Under-Graduate and Post-Graduate programmes in civil engineering.  
+  - Develop skills that add value to student competencies.  
+  - Promote quality education, research, and consultancy.  
+  - Inculcate moral and ethical values.  
+  - Nurture leaders with strong subject knowledge.  
+  - Regularly interact with industry.  
+  - Promote innovative thinking among engineers.  
+
+**Faculty**:  
+1. **Dr. Jyothi Prasad** (Professor)  
+2. **Dr. Susheel Kumar Katariya** (Associate Professor)  
+3. **Dr. Sandeep Gupta** (Associate Professor)  
+4. **Dr. Sanjeev Suman** (Associate Professor)  
+5. **Dr. V. K. Verma** (Associate Professor)  
+6. **Dr. Subir Kumar Sharma** (Associate Professor)  
+7. **Dr. Sunil Kumar** (Associate Professor)  
+8. **Dr. Vaneeta Devi** (Associate Professor)  
+9. **Dr. Astha Verma** (Assistant Professor)  
+
+**Laboratories**:  
+- Environmental Engineering Lab  
+- Fluid Mechanics Lab  
+- Strength of Materials Lab  
+- Surveying Lab  
+- Concrete Technology Lab  
+- Geotechnical Engineering Lab  
+- Transportation Engineering Lab  
+- GIS and Remote Sensing Lab  
+
+---
+
+### Department: Department of Computer Engineering  
+**Overview**:  
+- **Head**: Dr. S. D. Samantaray (Professor & Head)  
+- **History**:  
+  - B.Tech started in 1984  
+  - Department established in 1993  
+- **Programs Offered**:  
+  - B.Tech (4 Years Program)  
+  - M.Tech (2 Years Program)  
+  - Ph.D.  
+
+**Program Outcomes**:  
+- Apply knowledge of mathematics, science, and engineering fundamentals.  
+- Identify, formulate, research, and analyze complex engineering problems.  
+- Design solutions for complex engineering problems.  
+- Conduct investigation of complex problems.  
+- Use modern engineering and IT tools.  
+- Assess societal, health, safety, legal, and cultural issues.  
+- Understand the impact of engineering solutions.  
+- Apply ethical principles.  
+- Work effectively as an individual or team.  
+- Communicate effectively on engineering activities.  
+- Understand engineering and management principles.  
+- Engage in life-long learning.  
+
+**Accomplishments**:  
+- Students placed in top firms like Apple, Microsoft, IBM.  
+- Research facilities with blade servers and workstations.  
+- Faculty publications in Springer, Wiley, etc.  
+- Alumni include IAS officers, Directors, and key roles.  
+- Student projects in WSNs, Image Processing, Energy.  
+- AICTE MODROB project on Unified Communication and Cyber Security.  
+- Top AIEEE rankers opted for the branch.  
+
+**Faculty**:  
+1. **Dr. S. D. Samantaray** (Professor & Head)  
+2. **Dr. Pankaj Agarwal** (Professor)  
+3. **Dr. Krishna Kumar** (Associate Professor)  
+4. **Dr. Rashmi Agrawal** (Associate Professor)  
+5. **Dr. Deepti Gaur** (Assistant Professor)  
+6. **Dr. Himani Tiwari** (Assistant Professor)  
+7. **Ms. Neetu Kumari** (Assistant Professor)  
+8. **Mr. Rajiv Kumar** (Assistant Professor)  
+9. **Mr. Ravi Pal** (Assistant Professor)  
+10. **Ms. Aastha Bansal** (Assistant Professor)  
+11. **Mr. Ashutosh Srivastava** (Assistant Professor)  
+12. **Mr. Umesh Chand** (Lab Technician)  
+
+**Laboratories**:  
+- Software Engineering Lab  
+- Operating Systems Lab  
+- Data Structures Lab  
+- Computer Network Lab  
+- Web Development Lab  
+- Database Management Systems Lab  
+- Programming Lab  
+- Computer Organization Lab  
+- Project Lab  
+- Machine Learning Lab  
+- IoT and Embedded Systems Lab  
+- Cyber Security and Unified Communication Lab  
