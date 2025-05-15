@@ -34,10 +34,6 @@ st.markdown("""
         float: right;
         clear: both;
         border: 1px solid #404040;
-        font-size: 1.1rem !important;
-        line-height: 1.6 !important;
-        box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
-        border-left: 4px solid #58a6ff;
     }
     .bot-bubble {
         background-color: #3d3d3d;
@@ -49,13 +45,6 @@ st.markdown("""
         float: left;
         clear: both;
         border: 1px solid #505050;
-        font-size: 1.1rem !important;
-        line-height: 1.6 !important;
-        box-shadow: -3px 3px 10px rgba(0,0,0,0.2);
-        border-left: 4px solid #2ecc71;
-    }
-    .user-bubble span, .bot-bubble span {
-        font-size: 1rem !important;
     }
     .source-box {
         background-color: #2d2d2d;
@@ -64,7 +53,6 @@ st.markdown("""
         border-radius: 10px;
         padding: 1rem;
         margin: 0.5rem 0;
-        font-size: 0.95rem !important;
     }
     .st-expander > div {
         background-color: #1e1e1e !important;
@@ -76,12 +64,6 @@ st.markdown("""
     .stTextArea textarea {
         background-color: #1e1e1e !important;
         color: #ffffff !important;
-        font-size: 1.2rem !important;
-    }
-    .stMetric {
-        background-color: #2d2d2d !important;
-        border-radius: 12px;
-        padding: 1rem;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -153,24 +135,6 @@ with col1:
 with col2:
     st.title("UniBot - Academic Query Assistant")
 
-# Welcome Section
-with st.container():
-    st.markdown("""
-    <div style="background: linear-gradient(145deg, #2d4059, #1e1e1e);
-                padding: 1.5rem;
-                border-radius: 15px;
-                margin: 1rem 0;">
-        <h3 style="color: #ffffff; margin-bottom: 0.5rem;">🎓 Welcome to UniBot!</h3>
-        <p style="color: #e0e0e0; font-size: 1.1rem;">
-        Ask me about:<br>
-        • Admissions & Programs 📚<br>
-        • Campus Facilities 🏛️<br>
-        • Academic Calendar 📅<br>
-        • Student Services 🧑💻
-        </p>
-    </div>
-    """, unsafe_allow_html=True)
-
 # Initialize QA system
 if "qa_chain" not in st.session_state:
     st.session_state.qa_chain = load_qa_chain()
@@ -186,12 +150,11 @@ with st.form("chat_form", clear_on_submit=True):
         height=100,
         key="query_input",
         help="Press Enter ⏎ to submit | Shift+Enter ⏎ for new line",
-        label_visibility="collapsed",
-        placeholder="Ask your queries about GBPUAT here..."
+        label_visibility="collapsed"
     )
-    submit = st.form_submit_button("Ask Now", type="primary", use_container_width=True)
+    submit = st.form_submit_button("Ask", type="primary", use_container_width=True)
 
-# JavaScript injection for Enter key submission
+# Updated JavaScript injection RIGHT AFTER FORM DEFINITION
 st.components.v1.html("""
 <script>
 const observer = new MutationObserver(() => {
@@ -268,7 +231,7 @@ with chat_container:
                     </div>
                     """, unsafe_allow_html=True)
 
-# Enhanced Sidebar
+# Sidebar for quick actions
 with sidebar:
     st.header("Quick Actions")
     if st.button("🧹 Clear Chat History"):
@@ -279,18 +242,6 @@ with sidebar:
         data=str(st.session_state.chat_history),
         file_name="chat_history.txt"
     )
-    
-    st.markdown("---")
-    st.markdown("### 🔍 Quick Links")
-    st.markdown("""
-    - [University Website](https://www.gbpuat.ac.in)
-    - [Academic Calendar](https://www.gbpuat.ac.in/calendar.html)
-    - [AUAMS Portal](https://gbpuat.auams.in/)
-    - [COT Time Table](https://sites.google.com/view/collegetimetabletech/home)
-    """)
-    
-    st.markdown("---")
-    
     st.info("💡 Tip: Click sources to view document excerpts")
 
 # Footer
