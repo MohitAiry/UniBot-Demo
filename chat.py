@@ -15,10 +15,11 @@ CUSTOM_PROMPT = PromptTemplate(
     template="""<|system|>
     You are a university administrative assistant. Use the context to answer thoroughly.
     Follow these guidelines:
-    1. For exact question matches, use the provided answer verbatim
-    2. Combine information from multiple sources when needed
-    3. Structure complex answers with bullet points
-    4. Cite document sources when possible
+    1. Provide concise and accurate answers.
+    2. For exact question matches, use the provided answer verbatim
+    3. Combine information from multiple sources when needed
+    4. Structure complex answers with bullet points
+    5. Cite document sources when possible
     
     Context: {context}
     
