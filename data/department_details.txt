@@ -1,0 +1,170 @@
+### Department: Farm Machinery & Power Engineering  
+**Vision**: Farm technocrats support built up for mechanization, precision farming, resource conservation, energy base expansion to revolutionize farm productivity.  
+
+**Mission**:  
+- Farm technocrats support built-up by strengthening teaching base  
+- Expanding farm power availability through hi-tech mechanization  
+- Conservation of bio-resources for supplementation of farm energy needs  
+- Equipping farmers and agricultural workers with state-of the-art farm technology  
+
+**Programs**:  
+- B.Tech: Available  
+- M.Tech: 194 seats  
+- Ph.D.: 48 seats  
+
+**Research**:  
+- Projects Completed: 24  
+- Ongoing Projects:  
+  1. **Energy in Agriculture and Agro–Based Industries (EAAI)** (Funded by: ICAR, New Delhi)  
+  2. **Mechanization of Animal Husbandry (Utilization of Animal Energy with Enhanced System Efficiency)** (Funded by: ICAR, New Delhi)  
+- Testing Center: Implement Testing and Training Centre  
+- Approving Authority: Department of Agriculture & Cooperation, Ministry of Agriculture, Government of India  
+
+**Technologies Developed**:  
+- Pantnagar Zero-till ferti-seed drill  
+- Axial flow multi-crop thresher  
+- Soybean thresher  
+- Pant spiked clod crusher  
+- Multi-crop seed drill  
+- Sugarcane interculture-cum-earthing equipment  
+- Mango Guthali (stone) decorticator  
+- Differential speed expanding pitch fruits and vegetable grader  
+- Tomato seed extractor  
+- Okra thresher  
+- Pant adjustable yoke  
+- Pant adjustable collar harness  
+- Wheat thresher for hilly region  
+- Multicrop thresher for hilly region  
+
+**Publications**: 355  
+**Awards**: 10  
+**Patents**: 6  
+
+**Laboratories**:  
+- Corrosion test apparatus  
+- Reid vapour pressure test apparatus  
+- Dry Abrasion Tester  
+- Eddy current dynamometer  
+- Universal testing machine  
+- Bomb calorimeter  
+- Bio-oil pyrolysis set-up  
+- Viscometer  
+- Rotary vacuum evaporator  
+- Soxhlet extraction unit  
+- Rectangular and circular soil bin  
+- Smoke point apparatus  
+
+**Faculty**:  
+1. **Dr. Triveni Prasad Singh**  
+   - Designation: Professor & Head  
+   - Email: tpsingh_62@yahoo.co.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Precision Tillage and Seeding Machineries  
+2. **Dr. Ravi Pratap Singh**  
+   - Designation: Professor  
+   - Email: dr.ravipratapsingh@gmail.com  
+   - Qualification: Not specified  
+3. **Dr. Jayant Singh**  
+   - Designation: Professor  
+   - Email: jayantsingh07@gmail.com  
+   - Qualification: Ph.D.  
+   - Research Interests: Renewable Energy, Draft Animal Power & Farm Equipments  
+4. **Dr. Arun Kumar**  
+   - Designation: Professor  
+   - Email: arunkumar@gbpuat-tech.ac.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Farm mechanization, Agril. residue Management, Precision agriculture, Design and development of farm machines  
+5. **Dr. Raj N Pateriya**  
+   - Designation: Professor  
+   - Email: rnpateriya4@gmail.com  
+   - Qualification: Ph.D.  
+   - Research Interests: Bio energy, Conservation & Precision Agricultural machineries, Ergonomics  
+
+---
+
+### Department: Electronics and Communication Engineering  
+**Vision**: To emerge as a centre of excellence in Electronics and Communication Engineering for providing high quality technical education and research to meet national and global needs.  
+
+**Mission**:  
+- To produce technically competent and socially responsible engineers for ever-changing needs of the industry and society.  
+- To provide quality and effective teaching-learning environment through qualified and committed faculty.  
+- To promote innovation, research and development through academic and industry collaboration.  
+- To inculcate moral and ethical values for holistic development of individuals.  
+
+**Programs**:  
+- B.Tech: Available  
+- M.Tech: Available  
+- Ph.D.: Available  
+
+**Faculty**:  
+1. **Dr. Manisha Arora**  
+   - Designation: Professor & Head  
+   - Email: manisha.arora@gbpuat-tech.ac.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Digital Signal Processing, Image Processing, Soft Computing  
+2. **Dr. Satya Prakash**  
+   - Designation: Professor  
+   - Email: prakashsp@rediffmail.com  
+   - Qualification: Ph.D.  
+   - Research Interests: Image Processing, Computer Vision, Machine Learning  
+3. **Dr. Pratibha Sharma**  
+   - Designation: Associate Professor  
+   - Email: pratibha.sharma@gbpuat-tech.ac.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Microwave Engineering, Antennas  
+
+**Labs**:  
+- Basic Electronics Lab  
+- Communication Engineering Lab  
+- Digital Electronics Lab  
+- Microprocessor Lab  
+- Microwave Engineering Lab  
+- Advanced Communication Lab  
+- Analog Electronics Lab  
+- Project Lab  
+- Simulation Lab  
+- Signal Processing Lab  
+
+---
+
+### Department: Electrical Engineering  
+**Vision**: To be a center of excellence in Electrical Engineering education, research, and application to serve the society and nation.  
+
+**Mission**:  
+- To provide high-quality education in Electrical Engineering with practical orientation.  
+- To encourage research and innovation in electrical technologies and interdisciplinary areas.  
+- To produce engineers with a strong ethical foundation and commitment to lifelong learning.  
+- To foster industry-institute interaction for enhancing skills and employability.  
+
+**Programs**:  
+- B.Tech: Available  
+- M.Tech: Available  
+- Ph.D.: Available  
+
+**Faculty**:  
+1. **Dr. Ramesh Chandra**  
+   - Designation: Professor & Head  
+   - Email: rchandra@gbpuat-tech.ac.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Power Systems, Electrical Machines, Renewable Energy Systems  
+2. **Dr. Jyoti Singh**  
+   - Designation: Associate Professor  
+   - Email: jyoti.singh@gbpuat-tech.ac.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Control Systems, Smart Grid  
+3. **Dr. Vikas Chauhan**  
+   - Designation: Assistant Professor  
+   - Email: vikas.chauhan@gbpuat-tech.ac.in  
+   - Qualification: Ph.D.  
+   - Research Interests: Power Electronics, Electric Drives  
+
+**Labs**:  
+- Electrical Machines Lab  
+- Power Systems Lab  
+- Control Systems Lab  
+- Electrical Measurements Lab  
+- Power Electronics Lab  
+- Basic Electrical Engineering Lab  
+- Electric Drives Lab  
+- Renewable Energy Lab  
+- Simulation and Modeling Lab  

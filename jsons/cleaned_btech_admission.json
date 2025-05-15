@@ -1,0 +1,34 @@
+{
+    "title": "Admission to B.Tech. Programme, College of Technology, G.B. Pant University",
+    "admission_process": "Online counseling organized by UTU based on JEE Mains rank",
+    "programs_offered": [
+        "Agricultural Engineering (Uttarakhand via UTU, All India via ICAR exam)",
+        "Civil Engineering",
+        "Computer Engineering",
+        "Electrical Engineering",
+        "Electronics and Communication Engineering",
+        "Information Technology",
+        "Industrial and Production Engineering",
+        "Mechanical Engineering",
+        "Biotechnology"
+    ],
+    "seat_allocation": {
+        "uttarakhand": "85%",
+        "all_india": "15%"
+    },
+    "reservation_and_certification": {
+        "required_for_reserved": true,
+        "not_required_for_general_uttarakhand": true
+    },
+    "lateral_entry": {
+        "based_on": "UKSEE exam merit",
+        "preference": "UKSEE merit candidates",
+        "eligibility": "Only Uttarakhand candidates"
+    },
+    "spot_counseling": {
+        "conducted_by": "College of Technology, Pantnagar",
+        "mode": "Online",
+        "details_url": "https://www.gbpuat.ac.in/"
+    },
+    "disclaimer": "Information is for reference only and may change without notice. Contact the Central Personnel Office or department for official details."
+}

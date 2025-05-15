@@ -1,0 +1,58 @@
+{
+    "admissions": {
+        "year": "2023\u20132024",
+        "application_process": {
+            "method": "online",
+            "portal": "http://www.gbpuat.org.in",
+            "dates": {
+                "UG_Masters_MCA_PhD": "01 March \u2013 15 April 2023",
+                "Sponsored_Candidates": "01 June \u2013 30 June 2023"
+            },
+            "fee": {
+                "General_OBC": 1200,
+                "SC_ST_PH": 600
+            }
+        },
+        "admission_basis": {
+            "UG_PG": "GBPUAT Entrance Exam",
+            "PhD": "GBPUAT Entrance Exam (except Management: CAT/CMAT + GD/Interview)",
+            "MTech_BTech": "JEE + UKTU counselling (except Food Tech & Biotech)",
+            "MSc_MBBT": "DBT GAT-B + RCB counselling",
+            "BVSc": "NEET + VCI counselling"
+        },
+        "eligibility": {
+            "Uttarakhand": "Normal and Payment Seats",
+            "Other_States": "Payment Seats Only (some exceptions like ICAR/NEET)"
+        },
+        "notes": [
+            "No correction after form submission",
+            "Admit cards available online only",
+            "Document verification required",
+            "Thumb impression & fingerprint verification at multiple stages"
+        ]
+    },
+    "graduation_requirements": {
+        "batch": "2018\u20132019",
+        "departments": [
+            "Agricultural Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronics & Communication Engineering",
+            "Information Technology",
+            "Industrial & Production Engineering",
+            "Mechanical Engineering"
+        ],
+        "credit_requirements": {
+            "Agricultural_Engineering_Regular": 186,
+            "Agricultural_Engineering_Lateral": 141,
+            "Civil_Engineering_Regular": 170
+        },
+        "key_components": [
+            "TIC-100 Induction Programme",
+            "Student READY Programme (Internships and Skill Development)",
+            "Non-Credit: Hindi (if not taken earlier), Educational Tour, NSS",
+            "Elective and Professional Courses semester-wise"
+        ]
+    }
+}

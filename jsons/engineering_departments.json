@@ -1,0 +1,244 @@
+{
+  "departments": [
+    {
+      "name": "Department of Agricultural Engineering",
+      "overview": {
+        "established": 1989,
+        "program": "B.Tech in Agricultural Engineering",
+        "objectives": [
+          "Educate students on modern agricultural technologies.",
+          "Conduct research in irrigation, farm machinery, soil conservation, and food processing.",
+          "Promote sustainable and efficient agricultural practices."
+        ],
+        "focus_areas": [
+          "Farm Machinery and Power",
+          "Soil and Water Conservation Engineering",
+          "Irrigation and Drainage Engineering",
+          "Agricultural Processing and Food Engineering",
+          "Renewable Energy Applications in Agriculture"
+        ]
+      },
+      "faculty": [
+        {
+          "name": "Dr. R. Ramesh",
+          "title": "Professor and Head"
+        },
+        {
+          "name": "Dr. B. Selvakumar",
+          "title": "Professor"
+        },
+        {
+          "name": "Dr. S. Mariappan",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. R. Vasanthi",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Mr. B. Maheswaran",
+          "title": "Assistant Professor (Senior Grade)"
+        },
+        {
+          "name": "Mr. A. Mohamed Abbas",
+          "title": "Assistant Professor (Senior Grade)"
+        },
+        {
+          "name": "Mr. P. Muruganandham",
+          "title": "Assistant Professor (Senior Grade)"
+        },
+        {
+          "name": "Mr. G. Prabakaran",
+          "title": "Assistant Professor (Senior Grade)"
+        },
+        {
+          "name": "Mr. S. Selvakumar",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Mr. D. Ravichandran",
+          "title": "Assistant Professor"
+        }
+      ],
+      "labs": [
+        "Farm Machinery Laboratory",
+        "Soil and Water Conservation Engineering Laboratory",
+        "Irrigation and Drainage Engineering Laboratory",
+        "Agricultural Processing and Food Engineering Laboratory",
+        "Surveying and Leveling Laboratory",
+        "Strength of Materials Laboratory",
+        "Fluid Mechanics Laboratory",
+        "Thermodynamics Laboratory",
+        "Workshop Practice",
+        "Computer Programming Laboratory"
+      ]
+    },
+    {
+      "name": "Department of Civil Engineering",
+      "overview": {
+        "head": "Dr. S.S. Gupta",
+        "vision": "To become a world-class platform of excellence...",
+        "mission": [
+          "Offer Under-Graduate and Post-Graduate programmes in civil engineering.",
+          "Develop skills that add value to student competencies...",
+          "Promote quality education, research and consultancy...",
+          "Inculcate moral and ethical values...",
+          "Nurture leaders with strong subject knowledge...",
+          "Regularly interact with industry...",
+          "Promote innovative thinking among engineers."
+        ]
+      },
+      "faculty": [
+        {
+          "name": "Dr. Jyothi Prasad",
+          "title": "Professor"
+        },
+        {
+          "name": "Dr. Susheel Kumar Katariya",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. Sandeep Gupta",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. Sanjeev Suman",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. V. K. Verma",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. Subir Kumar Sharma",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. Sunil Kumar",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. Vaneeta Devi",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Dr. Astha Verma",
+          "title": "Assistant Professor"
+        }
+      ],
+      "labs": [
+        "Environmental Engineering Lab",
+        "Fluid Mechanics Lab",
+        "Strength of Materials Lab",
+        "Surveying Lab",
+        "Concrete Technology Lab",
+        "Geotechnical Engineering Lab",
+        "Transportation Engineering Lab",
+        "GIS and Remote Sensing Lab"
+      ]
+    },
+    {
+      "name": "Department of Computer Engineering",
+      "head": {
+        "name": "Dr. S. D. Samantaray",
+        "title": "Professor & Head"
+      },
+      "history": {
+        "btech_started": 1984,
+        "department_established": 1993
+      },
+      "programs_offered": [
+        "B.Tech (4 Years Program)",
+        "M.Tech (2 Years Program)",
+        "Ph.D."
+      ],
+      "program_outcomes": [
+        "Apply knowledge of mathematics, science, engineering fundamentals...",
+        "Identify, formulate, research, and analyze complex engineering problems...",
+        "Design solutions for complex engineering problems...",
+        "Conduct investigation of complex problems...",
+        "Use modern engineering and IT tools...",
+        "Assess societal, health, safety, legal and cultural issues...",
+        "Understand the impact of engineering solutions...",
+        "Apply ethical principles...",
+        "Work effectively as an individual or team...",
+        "Communicate effectively on engineering activities...",
+        "Understand engineering and management principles...",
+        "Engage in life-long learning."
+      ],
+      "accomplishments": [
+        "Students working in top firms like Apple, Microsoft, IBM, etc.",
+        "Research facilities including blade servers and workstations.",
+        "Faculty publications in Springer, Wiley, etc.",
+        "Alumni include IAS officers, Directors, and other key roles.",
+        "Student projects in WSNs, Image Processing, Energy.",
+        "AICTE MODROB project on Unified Communication and Cyber Security.",
+        "Top AIEEE rankers opted for the branch."
+      ],
+      "faculty": [
+        {
+          "name": "Dr. S. D. Samantaray",
+          "designation": "Professor & Head"
+        },
+        {
+          "name": "Dr. Pankaj Agarwal",
+          "designation": "Professor"
+        },
+        {
+          "name": "Dr. Krishna Kumar",
+          "designation": "Associate Professor"
+        },
+        {
+          "name": "Dr. Rashmi Agrawal",
+          "designation": "Associate Professor"
+        },
+        {
+          "name": "Dr. Deepti Gaur",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Dr. Himani Tiwari",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Ms. Neetu Kumari",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Mr. Rajiv Kumar",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Mr. Ravi Pal",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Ms. Aastha Bansal",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Mr. Ashutosh Srivastava",
+          "designation": "Assistant Professor"
+        },
+        {
+          "name": "Mr. Umesh Chand",
+          "designation": "Lab Technician"
+        }
+      ],
+      "labs": [
+        "Software Engineering Lab",
+        "Operating Systems Lab",
+        "Data Structures Lab",
+        "Computer Network Lab",
+        "Web Development Lab",
+        "Database Management Systems Lab",
+        "Programming Lab",
+        "Computer Organization Lab",
+        "Project Lab",
+        "Machine Learning Lab",
+        "IoT and Embedded Systems Lab",
+        "Cyber Security and Unified Communication Lab"
+      ]
+    }
+  ]
+}

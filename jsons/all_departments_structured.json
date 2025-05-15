@@ -1,0 +1,236 @@
+[
+    {
+        "department": "Farm Machinery & Power Engineering",
+        "vision": "Farm technocrats support built up for mechanization, precision farming, resource conservation, energy base expansion to revolutionize farm productivity.",
+        "mission": [
+            "Farm technocrats support built-up by strengthening teaching base",
+            "Expanding farm power availability through hi-tech mechanization",
+            "Conservation of bio-resources for supplementation of farm energy needs",
+            "Equipping farmers and agricultural workers with state-of the-art farm technology"
+        ],
+        "programs": {
+            "B.Tech": true,
+            "M.Tech": 194,
+            "Ph.D.": 48
+        },
+        "research": {
+            "projects_completed": 24,
+            "ongoing_projects": [
+                {
+                    "name": "Energy in Agriculture and Agro\u2013Based Industries (EAAI)",
+                    "funded_by": "ICAR, New Delhi"
+                },
+                {
+                    "name": "Mechanization of Animal Husbandry (Utilization of Animal Energy with Enhanced System Efficiency)",
+                    "funded_by": "ICAR, New Delhi"
+                }
+            ],
+            "testing_center": "Implement Testing and Training Centre",
+            "approving_authority": "Department of Agriculture & Cooperation, Ministry of Agriculture, Government of India"
+        },
+        "technologies_developed": [
+            "Pantnagar Zero-till ferti-seed drill",
+            "Axial flow multi-crop thresher",
+            "Soybean thresher",
+            "Pant spiked clod crusher",
+            "Multi-crop seed drill",
+            "Sugarcane interculture-cum-earthing equipment",
+            "Mango Guthali (stone) decorticator",
+            "Differential speed expanding pitch fruits and vegetable grader",
+            "Tomato seed extractor",
+            "Okra thresher",
+            "Pant adjustable yoke",
+            "Pant adjustable collar harness",
+            "Wheat thresher for hilly region",
+            "Multicrop thresher for hilly region"
+        ],
+        "publications": 355,
+        "awards": 10,
+        "patents": 6,
+        "laboratories": [
+            "Corrosion test apparatus",
+            "Reid vapour pressure test apparatus",
+            "Dry Abrasion Tester",
+            "Eddy current dynamometer",
+            "Universal testing machine",
+            "Bomb calorimeter",
+            "Bio-oil pyrolysis set-up",
+            "Viscometer",
+            "Rotary vacuum evaporator",
+            "Soxhlet extraction unit",
+            "Rectangular and circular soil bin",
+            "Smoke point apparatus"
+        ],
+        "faculty": [
+            {
+                "name": "Dr. Triveni Prasad Singh",
+                "designation": "Professor & Head",
+                "email": "tpsingh_62@yahoo.co.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Precision Tillage and Seeding Machineries"
+                ]
+            },
+            {
+                "name": "Dr. Ravi Pratap Singh",
+                "designation": "Professor",
+                "email": "dr.ravipratapsingh@gmail.com",
+                "qualification": null,
+                "research_interests": []
+            },
+            {
+                "name": "Dr. Jayant Singh",
+                "designation": "Professor",
+                "email": "jayantsingh07@gmail.com",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Renewable Energy",
+                    "Draft Animal Power & Farm Equipments"
+                ]
+            },
+            {
+                "name": "Dr. Arun Kumar",
+                "designation": "Professor",
+                "email": "arunkumar@gbpuat-tech.ac.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Farm mechanization",
+                    "Agril. residue Management",
+                    "Precision agriculture",
+                    "Design and development of farm machines"
+                ]
+            },
+            {
+                "name": "Dr. Raj N Pateriya",
+                "designation": "Professor",
+                "email": "rnpateriya4@gmail.com",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Bio energy",
+                    "Conservation & Precision Agricultural machineries",
+                    "Ergonomics"
+                ]
+            }
+        ]
+    },
+    {
+        "department": "Electronics and Communication Engineering",
+        "vision": "To emerge as a centre of excellence in Electronics and Communication Engineering for providing high quality technical education and research to meet national and global needs.",
+        "mission": [
+            "To produce technically competent and socially responsible engineers for ever-changing needs of the industry and society.",
+            "To provide quality and effective teaching-learning environment through qualified and committed faculty.",
+            "To promote innovation, research and development through academic and industry collaboration.",
+            "To inculcate moral and ethical values for holistic development of individuals."
+        ],
+        "programs": {
+            "B.Tech": true,
+            "M.Tech": true,
+            "Ph.D.": true
+        },
+        "faculty": [
+            {
+                "name": "Dr. Manisha Arora",
+                "designation": "Professor & Head",
+                "email": "manisha.arora@gbpuat-tech.ac.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Digital Signal Processing",
+                    "Image Processing",
+                    "Soft Computing"
+                ]
+            },
+            {
+                "name": "Dr. Satya Prakash",
+                "designation": "Professor",
+                "email": "prakashsp@rediffmail.com",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Image Processing",
+                    "Computer Vision",
+                    "Machine Learning"
+                ]
+            },
+            {
+                "name": "Dr. Pratibha Sharma",
+                "designation": "Associate Professor",
+                "email": "pratibha.sharma@gbpuat-tech.ac.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Microwave Engineering",
+                    "Antennas"
+                ]
+            }
+        ],
+        "labs": [
+            "Basic Electronics Lab",
+            "Communication Engineering Lab",
+            "Digital Electronics Lab",
+            "Microprocessor Lab",
+            "Microwave Engineering Lab",
+            "Advanced Communication Lab",
+            "Analog Electronics Lab",
+            "Project Lab",
+            "Simulation Lab",
+            "Signal Processing Lab"
+        ]
+    },
+    {
+        "department": "Electrical Engineering",
+        "vision": "To be a center of excellence in Electrical Engineering education, research, and application to serve the society and nation.",
+        "mission": [
+            "To provide high-quality education in Electrical Engineering with practical orientation.",
+            "To encourage research and innovation in electrical technologies and interdisciplinary areas.",
+            "To produce engineers with a strong ethical foundation and commitment to lifelong learning.",
+            "To foster industry-institute interaction for enhancing skills and employability."
+        ],
+        "programs": {
+            "B.Tech": true,
+            "M.Tech": true,
+            "Ph.D.": true
+        },
+        "faculty": [
+            {
+                "name": "Dr. Ramesh Chandra",
+                "designation": "Professor & Head",
+                "email": "rchandra@gbpuat-tech.ac.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Power Systems",
+                    "Electrical Machines",
+                    "Renewable Energy Systems"
+                ]
+            },
+            {
+                "name": "Dr. Jyoti Singh",
+                "designation": "Associate Professor",
+                "email": "jyoti.singh@gbpuat-tech.ac.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Control Systems",
+                    "Smart Grid"
+                ]
+            },
+            {
+                "name": "Dr. Vikas Chauhan",
+                "designation": "Assistant Professor",
+                "email": "vikas.chauhan@gbpuat-tech.ac.in",
+                "qualification": "Ph.D.",
+                "research_interests": [
+                    "Power Electronics",
+                    "Electric Drives"
+                ]
+            }
+        ],
+        "labs": [
+            "Electrical Machines Lab",
+            "Power Systems Lab",
+            "Control Systems Lab",
+            "Electrical Measurements Lab",
+            "Power Electronics Lab",
+            "Basic Electrical Engineering Lab",
+            "Electric Drives Lab",
+            "Renewable Energy Lab",
+            "Simulation and Modeling Lab"
+        ]
+    }
+]

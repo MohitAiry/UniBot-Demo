@@ -1,0 +1,87 @@
+{
+    "step_1": {
+        "title": "Registration",
+        "details": [
+            "Write Mobile Number (Do not prefix 0 or +91)",
+            "Write Email ID",
+            "Write Candidate name (without prefix like Mr./Ms./Shri./Dr.)",
+            "Write/Select Date of Birth (dd/mm/yyyy format)",
+            "Answer if ever a student of GBPUA&T (YES/NO)",
+            "Write Student ID if YES",
+            "Select Program Applying For",
+            "Select Domicile State (Uttarakhand/Other)",
+            "Select Subject Group & Code (for UG, Masters, MCA, Ph.D.)",
+            "Enter Captcha and Submit"
+        ]
+    },
+    "step_2": {
+        "title": "Login",
+        "details": [
+            "Enter Registration Number (sent to email)",
+            "Enter Password and Click Login"
+        ]
+    },
+    "step_3": {
+        "title": "Fill Application Form",
+        "details": [
+            "Enter Father's Name (no prefix)",
+            "Enter Mother's Name (no prefix)",
+            "Enter Aadhaar Number or Enrollment Number",
+            "Select Nationality",
+            "Select Gender",
+            "Select Category and Sub-category",
+            "Select Category Weightage",
+            "Select Religion",
+            "Select Physically Challenged \u2013 YES/NO",
+            "Son/Daughter/Spouse of Regular Employee of University \u2013 YES/NO",
+            "Select EWS status (for General category of Uttarakhand)",
+            "Select Blood Group and RH factor",
+            "Provide WhatsApp & Landline Number (optional)",
+            "Fill Correspondence and Permanent Address",
+            "Enter Education/Qualification Details",
+            "Select Qualifying Examination",
+            "Select Status: Passed/Appearing",
+            "Choose Examination Centres",
+            "Upload Photo, Signature, and Left-Hand Thumb Impression"
+        ]
+    },
+    "upload_instructions": {
+        "photo": {
+            "requirements": [
+                "Recent passport style colour picture with white/light background",
+                "Dimensions: 200x230 pixels",
+                "Size: 20kb to 50kb"
+            ]
+        },
+        "signature": {
+            "requirements": [
+                "Signed on white paper with black/blue ink",
+                "Signed by applicant only",
+                "Dimensions: 140x60 pixels",
+                "Size: 10kb to 20kb"
+            ]
+        },
+        "thumb_impression": {
+            "requirements": [
+                "Left hand thumb on white paper",
+                "Dimensions: 140x60 pixels",
+                "Size: 10kb to 20kb"
+            ]
+        }
+    },
+    "step_4": {
+        "title": "Submit Application Fee",
+        "details": [
+            "Fee payment via UPI/Debit/Credit Card/Net Banking",
+            "Keep a copy of the Online Fee Receipt",
+            "Avoid multiple registrations for the same course"
+        ]
+    },
+    "step_5": {
+        "title": "Confirmation Page",
+        "details": [
+            "Print and preserve Confirmation Page and Fee Receipt"
+        ]
+    },
+    "note": "This completes the online application process."
+}
