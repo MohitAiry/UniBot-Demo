@@ -36,10 +36,12 @@ UniBot/
 
 '''bash
 git clone https://github.com/yourusername/UniBot.git
+
 cd UniBot
 
 ### Install dependencies
 Make sure you are in a virtual environment.
+
 pip install -r requirements.txt
 
 
@@ -53,6 +55,7 @@ Place university documents in the ./data/ folder. Supported formats:
 
 ## Create .env file if using API otherwise download any Ollama Model suited for your PC
 Create a .env file in the root directory and add your Groq API key:
+
 GROQ_API_KEY=your_groq_key_here
 
 ## Generate the Vector Store
