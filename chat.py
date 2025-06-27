@@ -8,18 +8,18 @@ from langchain.vectorstores import Chroma
 import os
 from dotenv import load_dotenv
 
-# Set page config FIRST
+# from langchain_community.llms import Ollama
+
+# page config
 st.set_page_config(
     page_title="GBPUAT Chatbot",
     layout="wide",
     page_icon="🎓"
 )
 
-# Load environment variables
 load_dotenv()
 
-# University logo (replace with your actual image path)
-UNIVERSITY_LOGO = r"C:\Users\user\OneDrive\Desktop\UNI QUERYBOT\UniBot v2\logo.png"
+UNIVERSITY_LOGO = r"D:\UNI QUERYBOT\UniBotv2\logo.png"
 
 # Custom CSS for dark theme
 st.markdown("""
@@ -106,7 +106,6 @@ CUSTOM_PROMPT = PromptTemplate(
 )
 
 def load_qa_chain(db_path="./db"):
-    """Initialize QA system with Groq API"""
     try:
         client = chromadb.PersistentClient(path=db_path)
         embeddings = HuggingFaceEmbeddings(
@@ -122,6 +121,8 @@ def load_qa_chain(db_path="./db"):
         )
        
         return RetrievalQA.from_chain_type(
+            # llm=Ollama(model="llama3", temperature=0.3),
+            # We have a choice here either using Ollama (i.e. running locally) or Groq
             llm=ChatGroq(
                 temperature=0.3,
                 model_name="meta-llama/llama-4-scout-17b-16e-instruct",
