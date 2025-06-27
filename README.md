@@ -67,3 +67,85 @@ streamlit run chat.py
 Open the local URL shown (usually http://localhost:8501) and start chatting!
 
 
+# 🧠 How UniBot Works Behind the Interface
+
+UniBot is an AI-powered assistant designed to help users ask natural language questions about the **College of Technology, GBPUAT**. Beneath the simple chat interface lies a robust **Retrieval-Augmented Generation (RAG)** system combining vector search, document parsing, and large language models (LLMs).
+
+---
+
+## 🔁 End-to-End Data Flow
+
+### Step 1: Document Collection
+All university-related documents are placed in the `data/` folder. Supported formats include:
+
+- `.pdf` - e.g., Admission brochures, Academic calendars
+- `.docx` - e.g., College rulebooks or notices
+- `.txt` - Structured or free-form text files
+- `.json` - Specifically formatted Q&A pairs
+
+---
+
+### Step 2: Document Processing (`create_db.py`)
+
+This script performs the following:
+
+1. **File Loading**  
+   - Uses LangChain loaders like `PyPDFLoader`, `UnstructuredFileLoader`, and custom JSON parsing to extract readable text.
+
+2. **Text Chunking**  
+   - Breaks large content into manageable pieces (chunks) using `RecursiveCharacterTextSplitter`.  
+   - Chunk size = 1200 characters, with overlap of 300 for better context retention.
+
+3. **Embedding Generation**  
+   - Each chunk is converted into a high-dimensional vector using the HuggingFace model:  
+     `BAAI/bge-base-en-v1.5`  
+   - These embeddings numerically represent the meaning of the text.
+
+4. **Vector Storage (ChromaDB)**  
+   - All vectorized chunks are saved in a **persistent Chroma database**.
+   - This database allows **fast semantic search** later.
+
+📦 Output: A folder `./db/` containing the vector index.
+
+---
+
+## 💬 User Interaction Flow (`chat.py`)
+
+When a user types a question into the Streamlit UI:
+
+### 1. **Semantic Search**
+   - The query is embedded using the same HuggingFace embedding model.
+   - ChromaDB retrieves the top relevant document chunks based on **vector similarity** (using MMR search and threshold filtering).
+
+### 2. **Context Construction**
+   - The retrieved chunks are compiled into a **context block**.
+   - This block represents everything the LLM "knows" while answering.
+
+### 3. **Prompt Formulation**
+   - A custom LangChain `PromptTemplate` is used to instruct the LLM:
+     - Be accurate and concise
+     - Use document context
+     - Cite sources if possible
+     - Use bullet points for complex answers
+
+### 4. **LLM Response Generation**
+   - The prompt + context is sent to a **Groq-hosted LLM**:  
+     `meta-llama/llama-4-scout-17b-16e-instruct` or your in system LLM.
+   - The LLM formulates a fluent, structured answer based on the input.
+
+### 5. **Response Display**
+   - The answer is shown in a **styled chat bubble**.
+   - Supporting documents are expandable and viewable as excerpts.
+   - Full chat history is retained until manually cleared.
+
+## 🧠 What's Really Happening
+    A[User Query] --> B[Convert to Embedding]
+    B --> C[Search Vector DB (Chroma)]
+    C --> D[Retrieve Top Matching Chunks]
+    D --> E[Compose Prompt with Context]
+    E --> F[Send to LLM (Groq/LLaMA-4)]
+    F --> G[Generate Final Answer]
+    G --> H[Display in Streamlit UI]
+
+
+
